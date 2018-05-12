@@ -1,0 +1,33 @@
+_repo: The-Biology-Physiology-and-Sociology-of-ReproductionAlso-Sexual-Hygiene-with-Special-Referenc__24708
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hall, Winfield Scott
+    birthdate: 1861
+    gutenberg_agent_id: '26684'
+    url: http://www.gutenberg.org/2009/agents/26684
+description: ''
+gutenberg_bookshelf:
+- Medicine
+- Sociology
+- Physiology
+gutenberg_issued: '2008-02-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24708'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QP'
+- !lcc 'BJ'
+- !lcsh 'Sexual ethics -- Early 20th century'
+- !lcsh 'Reproduction'
+title: 'The Biology, Physiology and Sociology of Reproduction
+
+  Also Sexual Hygiene with Special Reference to the Male'
+url: http://www.gutenberg.org/ebooks/24708
