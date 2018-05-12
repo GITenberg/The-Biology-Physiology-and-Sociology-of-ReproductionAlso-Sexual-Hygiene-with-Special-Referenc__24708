@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '26684'
     url: http://www.gutenberg.org/2009/agents/26684
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24708#The-Biology-Physiology-and-Sociology-of-ReproductionAlso-Sexual-Hygiene-with-Special-Referenc_
 gutenberg_bookshelf:
 - Medicine
 - Sociology
